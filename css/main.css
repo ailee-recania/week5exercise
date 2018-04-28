@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+ul {
+	background-color: #699919;
+	margin: 0;
+	padding: 15px;
+}
+li {
+	background-color: white;
+	display: inline-block;
+	padding: 5px;
+}
+.box {
+	display: inline-block;
+	width: 40%;
+}
+img {
+	width: 60%;
+	border: 5px solid white;
+	padding: 10px;
+	margin: 0;
+}
+.html {
+	background-color: #2BA8E0;
+}
+.css {
+	background-color: #EE6526;
+}
